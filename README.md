@@ -1,7 +1,7 @@
 Herkese merhabalar. Python'un temelleri için çeşitli kurslar alırken not etiiklerimden biri de Patika.Dev eğitimleri içeriklerindendi. Eski dökümanlar olsa gelişimimi görmek adına burada da paylaşmak istedim. NumPy, Pandas ve İleri Python klasörleri sizleri karşılıyor olacak:) Her bir klasörün içerdiği notebook dosya isimlerini aşağıda listeledim. Sıralama veya isim bazlı yanlışlar olabilir. 
 Numpy
-1.Numpy_Array
-2.Specific_Numpy_Arrays
+ 1.Numpy_Array
+ 2.Specific_Numpy_Arrays
 3.Consecutive_Numbers
 4.Dividing_Interval
 5.Normal_Distribution
