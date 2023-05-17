@@ -1,5 +1,5 @@
 Herkese merhabalar. 
-Python'un temelleri için çeşitli kurslar alırken not etiiklerimden biri de Patika.Dev eğitimleri içeriklerindendi. Eski dökümanlar olsa gelişimimi görmek adına burada da paylaşmak istedim. 'NumPy', 'Pandas' ve 'İleri Python' klasörleri sizleri karşılıyor olacak:) Her bir klasörün içerdiği notebook dosya isimlerini aşağıda listeledim. Sıralama bazlı yanlışlar, aynı anda Türkçe-İngilizce kullanımı olabilir, daha düzenli olmaya çalışacağım sonraki dökümantasyonlarda. 
+Python'un temelleri için çeşitli kurslar alırken not ettiklerimden biri de Patika.Dev eğitimleri içeriklerindendi. Eski dökümanlar olsa da gelişimimi görmek adına burada da paylaşmak istedim. 'NumPy', 'Pandas' ve 'İleri Python' klasörleri sizleri karşılıyor olacak:) Her bir klasörün içerdiği notebook dosya isimlerini aşağıda listeledim. Sıralamada bazlı yanlışlar, aynı anda Türkçe-İngilizce kullanımı olabilir, daha düzenli olmaya çalışacağım sonraki dökümantasyonlarda. 
 
 # _*Numpy*_ 
 - 1.Numpy_Array
